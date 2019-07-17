@@ -10,6 +10,7 @@
 
 :- include(solucion03Prolog).
 
+
 :- begin_tests(lecturalia).
     
         test(felicesLos4, set( Quienes = [clara, juan , nico, alexis])):-

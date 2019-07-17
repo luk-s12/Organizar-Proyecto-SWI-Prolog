@@ -74,6 +74,36 @@ script: swipl -t "load_test_files([]), run_tests." -s solucion03Prolog.pl
 ```
 Donde dice **solucion03Prolog.pl** debe ir el nombre del archivo donde se encuentra la **Lógica**.
 
+## Como ejecutamos los tests
+
+Simplemente en swi-prolog ejecutamos el siguiente comando
+
+```prolog
+
+load_test_files([make(all)]).
+
+```
+Lo que hace este comando es que ejecute los test cuando se usa el comando **make.** porque se modifico algún archivo. Esto sirve cuando modificamos un archivos y recargamos los cambio y queremos ver si los cambios rompe o no los test
+
+Si no te gusta que cuando hagas modificaciones en los archivos y hagas **make.** para recargarlos y ejecute los test . 
+
+Simplemente debes ejecutar el comando para cargar los test
+
+```prolog
+
+load_test_files([]).
+
+```
+
+Y luego parar correr los test usamos el siguiente comando.
+
+```prolog
+
+run_tests.
+
+```
+
 ### Referencia
 
 [Setting Up Unit Testing In SWI-Prolog](http://www.paulbrownmagic.com/blog/swi_prolog_unit_testing_env)
+
