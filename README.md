@@ -85,7 +85,7 @@ load_test_files([make(all)]).
 ```
 Lo que hace este comando es que ejecute los test cuando se usa el comando **make.** porque se modifico algún archivo. Esto sirve cuando modificamos un archivos y recargamos los cambio y queremos ver si los cambios rompe o no los test
 
-Si no te gusta que cuando modifiques los archivos y los recargues con **make.** , ejecute los test . 
+Si no te gusta que cuando modifiques los archivos y los recargues con **make.**  ejecute los test . 
 
 Simplemente debes ejecutar el comando para cargar los test
 
