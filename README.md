@@ -9,7 +9,7 @@ Consiste en crear 3 archivos . Donde en uno va ir nuestra base de conocimiento, 
 
 * baseDeConocimiento . pl (La base de conocimientos).
 * solucion03Prolog . pl (La Lógica).
-* solucion03Prolog . **plt** (Los tets).
+* solucion03Prolog . **plt** (Los test).
 
 > Nota: El archivo de test se lo nombra con la extensión **.plt**
 
