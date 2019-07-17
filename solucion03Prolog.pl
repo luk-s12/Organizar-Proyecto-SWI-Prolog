@@ -7,10 +7,6 @@
   ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝                                             
 */
 
-/* 
-La directiva :- use_module sirve para cargar el archivo modulo y poder usar los predicados.
-En este caso para poder usar la base de conocimientos.
-*/
 
 :- use_module(baseDeConocimiento).
 

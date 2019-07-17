@@ -9,12 +9,6 @@
 
 :- encoding(utf8).
 
-/*
-La directiva :- module  declara que el archivo va hacer un archivo de modulo para poder usarlo en otro archivo despues.
-Donde el 1 parametro es el nombre del modulo (lo habitual es que sea igual al nombre del archivo).
-Y los predicados con la aridad que va a tener este modulo
-*/
-
 :- module(baseDeConocimiento, [leyo/2, persona/1, quiere/2, tiene/2]). 
 
 leyo(nico,saga(dune,14)).

@@ -7,10 +7,6 @@
      ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝                                                          
 */
 
-/*
-La directiva :- inlcude lo que hace es  incluye textualmente el contenido del archivo a donde se
-encuentre esta directiva.
-*/
 
 :- include(solucion03Prolog).
 
