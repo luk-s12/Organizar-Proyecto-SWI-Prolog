@@ -87,7 +87,7 @@ Lo que hace este comando es que ejecute los test cuando se usa el comando **make
 
 Si no te gusta que cuando modifiques los archivos y los recargues con **make.**  ejecute los test . 
 
-Simplemente debes ejecutar el comando para cargar los test
+Simplemente debes ejecutar el siguiente comando para cargar los test
 
 ```prolog
 
