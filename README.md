@@ -17,7 +17,7 @@ Consiste en crear 3 archivos . Donde en uno va ir nuestra base de conocimiento, 
 
 ### Archivo de base de conocimiento 
 
-En este archivos se encuentran todos los hechos y se debe también incluir la directiva.
+En este archivos se encuentran el conocimiento, hechos ,etc . Se debe también incluir la directiva.
 
 ```prolog
 
@@ -85,7 +85,7 @@ load_test_files([make(all)]).
 ```
 Lo que hace este comando es que ejecute los test cuando se usa el comando **make.** porque se modifico algún archivo. Esto sirve cuando modificamos un archivos y recargamos los cambio y queremos ver si los cambios rompe o no los test
 
-Si no te gusta que cuando hagas modificaciones en los archivos y hagas **make.** para recargarlos y ejecute los test . 
+Si no te gusta que cuando modifiques los archivos y los recargues con **make.** , ejecute los test . 
 
 Simplemente debes ejecutar el comando para cargar los test
 
