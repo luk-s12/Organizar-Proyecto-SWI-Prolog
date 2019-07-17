@@ -73,3 +73,7 @@ script: swipl -t "load_test_files([]), run_tests." -s solucion03Prolog.pl
 
 ```
 Donde dice **solucion03Prolog.pl** debe ir el nombre del archivo donde se encuentra la **Lógica**.
+
+### Referencia
+
+[Setting Up Unit Testing In SWI-Prolog](http://www.paulbrownmagic.com/blog/swi_prolog_unit_testing_env)
