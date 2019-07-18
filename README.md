@@ -15,7 +15,7 @@ Consiste en crear 3 archivos . Donde en uno va ir nuestra base de conocimiento, 
 
 ## Que incluir en cada archivo
 
-### Archivo de base de conocimiento 
+### Base de conocimiento 
 
 En este archivos se encuentran el conocimiento, hechos ,etc . Se debe también incluir la directiva.
 
