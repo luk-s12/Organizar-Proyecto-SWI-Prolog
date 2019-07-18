@@ -11,7 +11,7 @@ Consiste en crear 3 archivos . Donde en uno va ir nuestra base de conocimiento, 
 * solucion03Prolog . pl (La Lógica).
 * solucion03Prolog . **plt** (Los test).
 
-> Nota: El archivo de test se lo nombra con la extensión **.plt**
+> Nota: El archivo de test se lo nombra con la extensión **.plt** .Tambien tengan encuenta que el archivo que posee la lógica y los test deben tener el mismo nombre.
 
 ## Que incluir en cada archivo
 
