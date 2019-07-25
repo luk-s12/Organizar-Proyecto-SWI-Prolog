@@ -8,7 +8,7 @@
 */
 
 
-:- use_module(baseDeConocimiento).
+:- use_module(baseDeConocimientos).
 
 esFeliz(Persona):-
     persona(Persona),
