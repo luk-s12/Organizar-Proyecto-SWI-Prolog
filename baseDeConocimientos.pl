@@ -9,7 +9,7 @@
 
 :- encoding(utf8).
 
-:- module(baseDeConocimiento, [leyo/2, persona/1, quiere/2, tiene/2]). 
+:- module(baseDeConocimientos, [leyo/2, persona/1, quiere/2, tiene/2]). 
 
 leyo(nico,saga(dune,14)).
 leyo(daiu,paper([hamilton,zeldin],"The relationship between design and verification")).
